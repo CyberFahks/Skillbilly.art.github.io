@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 91.2 62">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #d0e1df;
+        stroke-width: .2px;
+      }
+
+      .st0, .st1 {
+        stroke: #505267;
+        stroke-miterlimit: 10;
+      }
+
+      .st2 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #fff;
+        stroke-width: .2px;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x=".1" y=".1" width="91" height="61.7"/>
+  <polygon class="st0" points="7 6.7 75.2 6.3 73.3 51.4 6.7 52.1 7 6.7"/>
+  <image class="st2" width="1131" height="647" transform="translate(11.4 9.6) scale(0 0)" xlink:href="Asset 1-1.png"/>
+</svg>
