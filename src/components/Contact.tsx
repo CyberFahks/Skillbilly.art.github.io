@@ -30,10 +30,10 @@ export function Contact() {
             about the idea and help give it a clear visual direction.
           </p>
           <a
-            href="mailto:howdy@skillbilly.art"
+            href="mailto:deannapursley1@gmail.com"
             className="mt-7 inline-flex items-center gap-2 border-2 border-ink bg-barn px-5 py-3 font-type text-sm uppercase tracking-widest text-kraft-50 shadow-sign transition-transform hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-mustard"
           >
-            howdy@skillbilly.art
+            deannapursley1@gmail.com
             <ArrowUpRightIcon className="h-4 w-4" />
           </a>
         </motion.div>
