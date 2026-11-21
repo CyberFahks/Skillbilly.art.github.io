@@ -4,6 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skillbilly Art &amp; Design</title>
+    <script>
+  // Initialize the agent at application startup.
+  const fpPromise = import('https://fpjscdn.net/v4/DJkTZeXbdXJdkOnvalfm')
+    .then(Fingerprint => Fingerprint.start())
+
+  // Get the visitor and event identifier when you need it.
+  fpPromise
+    .then(fp => fp.get())
+    .then(result => console.log(result.event_id, result.visitor_id))
+</script>
+
   </head>
   <body>
     <div id="root"></div>
